@@ -1,3 +1,3 @@
 # Yoha-Land
 
-"hi world mate"
+"hi world"
